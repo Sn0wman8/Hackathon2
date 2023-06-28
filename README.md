@@ -1,7 +1,7 @@
 # Hackathon2 Group 49
 
 ### Video link
-Game Demo Video [CPT113 Hackathon 2 Group 49](https://www.youtube.com/watch?v=UgkBrXMsMDA))
+Game Demo Video [CPT113 Hackathon 2 Group 49](https://www.youtube.com/watch?v=UgkBrXMsMDA)
 
 ## Game Description:
 Welcome to RPG, a thrilling adventure where you will test your mettle as a hero in an epic quest to conquer a treacherous tower filled with monsters and claim victory at its peak.
