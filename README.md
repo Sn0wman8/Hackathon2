@@ -124,7 +124,6 @@ The linked list structure is used to represent the floors of the tower. Each flo
     12.	setfloor(int lf): This function sets the current pointer to a specific floor based on the provided level.
     13.	getfloor(): This function retrieves the level of the current floor.
         
-By implementing the Tower class with a linked list, we can dynamically manage the tower floors, add new floors, move between floors, and access the details of each floor efficiently. The linked list ADT provides flexibility and allows for easy traversal and manipulation of the tower's structure.
 
 - The Inventory class manages a player's inventory in a game, specifically for storing weapons.
 The Inventory class uses a linked list structure to represent the inventory. Each weapon is represented by a node in the linked list, defined by the Inv struct. The Inventory class maintains a pointer head that points to the first weapon in the inventory and a pointer equippedWeapon that points to the currently equipped weapon.
@@ -138,7 +137,7 @@ The Inventory class uses a linked list structure to represent the inventory. Eac
     7.	saveInv(): This function saves the inventory information to a file named "inventory.txt". It stores the name and damage of each weapon in the file and the information of the equipped weapon, if available.
     8.	loadInv(): This function loads the inventory information from the "inventory.txt" file. It reads the file and reconstructs the linked inventory list, including the equipped weapon information.
        
-By implementing the Inventory class with a linked list, we can dynamically manage the player's inventory, add weapons, remove weapons, equip and unequip weapons, and store the inventory information persistently. The linked list ADT provides an efficient way to organize and manipulate the inventory items, allowing for easy traversal and modification of the inventory structure.
+By implementing the Inventory class with a linked list, we can dynamically manage the player's inventory, add weapons, remove weapons, equip and unequip weapons, and store the inventory information persistently. 
 
 - The Weapon class is responsible for adding weapons, selecting a random weapon, and retrieving the name and damage of the currently selected weapon.
 - The Weapon class uses a linked list structure to store the weapons. Each weapon is represented by a node in the linked list, defined by the Wea struct. The Weapon class maintains a pointer head that points to the first weapon in the list and a pointer selectedWeapon that points to the currently selected weapon.
