@@ -6,32 +6,32 @@ Game Demo Video [CPT113 Hackathon 2 Group 49](https://www.google.com/)
 ## Game Description:
 Welcome to RPG, a thrilling adventure where you will test your mettle as a hero in an epic quest to conquer a treacherous tower filled with monsters and claim victory at its peak.
 
-At the start of the game, you will create your own character. Once your character is created with a base stat of 100 HP and 10 ATK, it's time to determine the bonus stats that will further enhance your abilities. The bonus stats are randomly generated through a rolling system, adding an element of chance and unpredictability to your character's progression.
+At the start of the game, you will create your own character. Once your character is created with a base stat of 100 HP and 10 ATK, it's time to determine the bonus stats to enhance your abilities further. The bonus stats are randomly generated through a rolling system, adding an element of chance and unpredictability to your character's progression.
 
 As you ascend the tower, you will encounter a variety of fearsome monsters, each more challenging than the last. Engage in strategic battles, utilizing your wit, skills, and a bit of luck to defeat these adversaries. But fear not, for with each victory, you gain valuable bonus stats and unlock a treasure chest found on the respective floor.
 
-Inside the treasure chests, you will discover powerful weapons that can augment your combat abilities. Each weapon carries a unique bonus ATK stat, allowing you to customize your playstyle and further enhance your chances of success. However, be cautious, as the tower's challenges become increasingly formidable as you near the top.
+You will discover powerful weapons that can augment your combat abilities inside the treasure chests. Each weapon carries a unique bonus ATK stat, allowing you to customize your playstyle and enhance your chances of success. However, be cautious, as the tower's challenges become increasingly formidable as you near the top.
 
-To aid you on your quest, the game features a saving and loading system, allowing you to store your progress and resume your adventure at any time. Whether you choose to continue your ascent, switch weapons, or take a break, the game offers convenient options to suit your needs.
+The game features a saving and loading system to aid you on your quest, allowing you to store your progress and resume your adventure at any time. Whether you continue your ascent, switch weapons, or take a break, the game offers convenient options to suit your needs.
 
-At the pinnacle of the tower, an ultimate challenge awaits you—the final boss. This formidable enemy tests your skills, pushing you to the brink of your abilities. Employ all the tactics you have learned, exploit your weapon's bonus ATK, and summon the courage to overcome the final obstacle.
+At the tower's pinnacle, an ultimate challenge awaits you—the final boss. This formidable enemy tests your skills, pushing you to the brink of your abilities. Employ all your learned tactics, exploit your weapon's bonus ATK, and summon the courage to overcome the final obstacle.
 
 Defeat the final boss, and bask in the glory of victory! You will be hailed as a true legend, having conquered the Tower of Legends and secured your place in history.
 
-Get ready to embark on an unforgettable adventure, where every step brings you closer to triumph. Gather your courage, sharpen your blades, and face the Tower of Legends head-on. The fate of the kingdom and your own legacy await your heroic ascent!
+Prepare to embark on an unforgettable adventure where every step brings you closer to triumph. Gather your courage, sharpen your blades, and face the Tower of Legends head-on. The fate of the kingdom and your own legacy await your heroic ascent!
 
 
 ## Game Features
 Here are the exciting features of our text-based RPG game:
 
 **Character Creation** 
-- Begin by entering your name and watch as your unique character is generated. Random health points (HP) and attack points will be assigned, making each playthrough different.
+- Enter your name and watch as your unique character is generated. Random health points (HP) and attack points will be assigned, making each playthrough different.
 
 **Tower Exploration** 
 - Navigate through a multi-floor tower, starting from the first floor. Each floor presents new challenges, enemies, and treasures.
 
 **Engaging Battles** 
-- Engage in turn-based battles with enemies encountered on each floor. Choose from various actions, including Normal Attacks, Gamble Strikes, and Guarding, to strategically defeat your foes.
+- Engage in turn-based battles with enemies encountered on each floor. Choose from various actions, including Normal Attacks, Gamble Strikes, and Guarding, to defeat your foes strategically.
 
 **Dynamic Damage System** 
 - Witness the outcome of your attacks and the enemy's counterattacks through a dynamic damage display. The enemy's HP will decrease as you deal damage, and vice versa.
@@ -40,7 +40,7 @@ Here are the exciting features of our text-based RPG game:
 - Enjoy the thrill of victory as defeated enemies reward you with bonus stats and valuable loot. Equip your character with acquired items to boost your attack points and increase your chances of success.
 
 **Progression and Difficulty** 
-- Journey through multiple floors, with each subsequent floor featuring stronger and more challenging enemies. Experience a sense of progression as you face tougher foes and discover new strategies.
+- Journey through multiple floors, each subsequent floor featuring stronger and more challenging enemies. Experience a sense of progression as you face tougher foes and discover new strategies.
 
 **Save System** 
 - Use the save feature between floors to preserve your progress and resume your adventure later. No need to worry about losing your hard-earned progress!
@@ -49,27 +49,29 @@ Here are the exciting features of our text-based RPG game:
 - Test your skills and strategy against powerful bosses on the third floor. Defeating them will mark the culmination of your adventure and determine your victory.
 
 **Permadeath Challenge** 
-- Be mindful of your character's health points. If your HP reaches zero, it's game over! Exercise caution, plan your actions carefully, and stay alive throughout your difficult journey.
+- Please be careful about your character's health points. If your HP reaches zero, it's game over! Exercise caution, plan your actions carefully, and stay alive throughout your difficult journey.
 
 
 ## How-to-play
 Welcome to our captivating text-based RPG game! Prepare for an engaging adventure with these simple instructions:
 1.	Start by entering your name to create your heroic character. Your character will be randomly assigned health points (HP) and attack points.
-2.	You will find yourself on the first floor of the tower, facing various enemies. The User Interface will provide information about these foes.
+2.	You will find yourself on the tower's first floor, facing various enemies. The User Interface will provide information about these foes.
 3.	During battles, you'll be presented with three options on each turn:
-a. Choose "Normal Attack" to perform a regular attack on the enemy. b. Opt for "Gamble Strike" to take a risk and potentially deal more damage. c. Select "Guard" to defend yourself and reduce damage from the enemy's next attack.
+    a. Choose "Normal Attack" to perform a regular attack on the enemy. 
+    b. Opt for "Gamble Strike" to take a risk and potentially deal more damage. 
+    c. Select "Guard" to defend yourself and reduce damage from the enemy's next attack.
 4.	After selecting your action, the game will process your turn. If the enemy survives, it will retaliate and attack you.
 5.	Keep a close eye on the damage dealt and received. The enemy's HP will decrease accordingly.
 6.	Defeat an enemy by reducing its HP to zero. Celebrate your victory and receive bonus stats and valuable loot.
-7.	Progress to the next floor to face even stronger opponents. Save your game between floors for a more immersive experience.
+7.	Progress to the next floor to face even stronger opponents. You can save your game between floors for a more immersive experience.
 8.	Before ascending each floor, equip the loot you obtained to increase your attack points and enhance your damage.
 9.	The game consists of three floors, culminating in an epic boss battle on the third floor. Defeat the boss to win the game.
 10.	Remember, if your HP reaches zero, your journey will come to an end. Be strategic and mindful of your health.
     
-Get ready to embark on this thrilling RPG adventure, where your decisions and skills will shape your destiny. Enjoy the game, and may victory be yours!
+Prepare for this thrilling RPG adventure, where your decisions and skills will shape your destiny. Enjoy the game, and may victory be yours!
 
 
-## Object Oriented Concept
+## Object-Oriented Concept
 Our code has implemented several object-oriented concepts that help organize and structure the program effectively.
 
 **Encapsulation**
@@ -101,7 +103,7 @@ Our code has implemented several object-oriented concepts that help organize and
 
 
 ## ADTs usage
-In our game, we implemented linked list ADT to store several important informations that act as a core role in our game.
+In our game, we implemented a few linked list ADTs to store several important pieces of information that acts as a core role in our game.
 In our code, we utilize the ADTs in three classes:
 1. Tower class
 2. Inventory class
