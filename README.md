@@ -22,7 +22,34 @@ Get ready to embark on an unforgettable adventure, where every step brings you c
 
 
 ## Game Features
+Here are the exciting features of our text-based RPG game:
 
+**Character Creation** 
+- Begin by entering your name and watch as your unique character is generated. Random health points (HP) and attack points will be assigned, making each playthrough different.
+
+**Tower Exploration** 
+- Navigate through a multi-floor tower, starting from the first floor. Each floor presents new challenges, enemies, and treasures.
+
+**Engaging Battles** 
+- Engage in turn-based battles with enemies encountered on each floor. Choose from various actions, including Normal Attacks, Gamble Strikes, and Guarding, to strategically defeat your foes.
+
+**Dynamic Damage System** 
+- Witness the outcome of your attacks and the enemy's counterattacks through a dynamic damage display. The enemy's HP will decrease as you deal damage, and vice versa.
+
+**Rewards and Loot** 
+- Enjoy the thrill of victory as defeated enemies reward you with bonus stats and valuable loot. Equip your character with acquired items to boost your attack points and increase your chances of success.
+
+**Progression and Difficulty** 
+- Journey through multiple floors, with each subsequent floor featuring stronger and more challenging enemies. Experience a sense of progression as you face tougher foes and discover new strategies.
+
+**Save System** 
+- Use the save feature between floors to preserve your progress and resume your adventure later. No need to worry about losing your hard-earned progress!
+
+**Epic Boss Battles** 
+- Test your skills and strategy against powerful bosses on the third floor. Defeating them will mark the culmination of your adventure and determine your victory.
+
+**Permadeath Challenge** 
+- Be mindful of your character's health points. If your HP reaches zero, it's game over! Exercise caution, plan your actions carefully, and stay alive throughout your difficult journey.
 
 
 ## How-to-play
@@ -124,9 +151,5 @@ By implementing the Inventory class with a linked list, we can dynamically manag
     6.	randomWeapon(): This function selects a random weapon from the linked list. It generates a random index within the range of the number of weapons in the list. It then traverses the list to find the weapon at that index and sets the selectedWeapon pointer to point to it.
        
 The Weapon class allows for dynamically managing weapons, adding new weapons, selecting a random weapon, and retrieving the name and damage of the selected weapon. The linked list structure provides an efficient way to organize and manipulate the weapons, allowing for easy traversal and selection of a random weapon.
-
-
-
-## Screenshots
 
 
