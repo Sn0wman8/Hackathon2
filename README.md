@@ -57,9 +57,9 @@ Welcome to our captivating text-based RPG game! Prepare for an engaging adventur
 1.	Start by entering your name to create your heroic character. Your character will be randomly assigned health points (HP) and attack points.
 2.	You will find yourself on the tower's first floor, facing various enemies. The User Interface will provide information about these foes.
 3.	During battles, you'll be presented with three options on each turn:
-    a. Choose "Normal Attack" to perform a regular attack on the enemy. 
-    b. Opt for "Gamble Strike" to take a risk and potentially deal more damage. 
-    c. Select "Guard" to defend yourself and reduce damage from the enemy's next attack.
+    - Choose "Normal Attack" to perform a regular attack on the enemy. 
+    - Opt for "Gamble Strike" to take a risk and potentially deal more damage. 
+    - Select "Guard" to defend yourself and reduce damage from the enemy's next attack.
 4.	After selecting your action, the game will process your turn. If the enemy survives, it will retaliate and attack you.
 5.	Keep a close eye on the damage dealt and received. The enemy's HP will decrease accordingly.
 6.	Defeat an enemy by reducing its HP to zero. Celebrate your victory and receive bonus stats and valuable loot.
